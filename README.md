@@ -37,7 +37,7 @@ I've picked up a bunch of languages so far - some by choice, some by assignment.
 -  building projects that actually do something (vs. just existing)
 -  going deeper into web dev & backend with Flask + MySQL
 -  grinding DSA because it's painful but necessary
--  open to internship opportunities — let's connect!
+-  open to internship opportunities - let's connect!
 
 ---
 
@@ -55,6 +55,4 @@ I've picked up a bunch of languages so far - some by choice, some by assignment.
 [![GitHub](https://img.shields.io/badge/GitHub-Minahil--28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minahil-28)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minahilmehmood315@gmail.com)
 
----
 
-<p align="center"><i>still learning. always building. never giving up.</i></p>
