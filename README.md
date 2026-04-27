@@ -2,7 +2,7 @@
   <img src="./assets/githubbanner.png" alt="Minahil Mehmood Banner" width="100%" />
 </p>
 
-# hey, I'm Minahil 👋
+# hey, I'm Minahil 
 
 CS student by day, debugging mysteries by night. I write code in way too many languages and I'm slowly figuring out what I actually want to build - but that's half the fun, right?
 
