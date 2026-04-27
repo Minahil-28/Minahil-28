@@ -53,8 +53,7 @@ I've picked up a bunch of languages so far - some by choice, some by assignment.
 ### find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Minahil--28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minahil-28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email-here)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minahilmehmood315@gmail.com)
 
 ---
 
