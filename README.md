@@ -8,7 +8,7 @@ CS student by day, debugging mysteries by night. I write code in way too many la
 
 ### what I work with
 
-I've picked up a bunch of languages so far — some by choice, some by assignment 
+I've picked up a bunch of languages so far - some by choice, some by assignment 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -28,7 +28,7 @@ I've picked up a bunch of languages so far — some by choice, some by assignmen
 - building projects that actually do something (vs. just existing)
 - going deeper into web dev & backend with Flask + MySQL
 - grinding DSA because it's painful but necessary 
-- open to internship opportunities — let's connect!
+- open to internship opportunities - let's connect!
 
 ---
 
