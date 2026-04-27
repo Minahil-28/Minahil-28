@@ -4,13 +4,13 @@
 
 # hey, I'm Minahil 👋
 
-CS student by day, debugging mysteries by night. I write code in way too many languages and I'm slowly figuring out what I actually want to build — but that's half the fun, right?
+CS student by day, debugging mysteries by night. I write code in way too many languages and I'm slowly figuring out what I actually want to build - but that's half the fun, right?
 
 <br/>
 
 ### what I work with
 
-I've picked up a bunch of languages so far — some by choice, some by assignment.
+I've picked up a bunch of languages so far - some by choice, some by assignment.
 
 **Languages**
 
@@ -34,10 +34,10 @@ I've picked up a bunch of languages so far — some by choice, some by assignmen
 
 ### right now I'm...
 
-- 🔨 building projects that actually do something (vs. just existing)
-- 🌐 going deeper into web dev & backend with Flask + MySQL
-- 🧠 grinding DSA because it's painful but necessary
-- 💼 open to internship opportunities — let's connect!
+-  building projects that actually do something (vs. just existing)
+-  going deeper into web dev & backend with Flask + MySQL
+-  grinding DSA because it's painful but necessary
+-  open to internship opportunities — let's connect!
 
 ---
 
